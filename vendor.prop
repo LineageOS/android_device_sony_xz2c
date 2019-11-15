@@ -7,6 +7,3 @@ vendor.display.disable_hdr_lut_gen=1
 
 # NFC
 ro.vendor.nfc.ko=nxp_pn553_nfc
-
-# Netflix
-ro.netflix.bsp_rev=Q845-05000-1

@@ -10,7 +10,7 @@
 DEVICE_PATH := device/sony/apollo
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := apollo
+TARGET_OTA_ASSERT_DEVICE := H8314,H8324,apollo,apollo_dual
 
 # Crypto
 TARGET_HW_DISK_ENCRYPTION := true

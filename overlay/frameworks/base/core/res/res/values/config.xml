@@ -194,4 +194,8 @@
         <item>376.2</item>
         <item>392.9</item>
     </array>
+
+    <!-- MMS user agent prolfile url -->
+    <string name="config_mms_user_agent_profile_url" translatable="false"
+            >http://uaprof.sonymobile.com/H8324R5201.xml</string>
 </resources>

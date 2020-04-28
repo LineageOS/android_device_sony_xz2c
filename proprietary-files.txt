@@ -740,7 +740,7 @@ vendor/etc/sensors/registry/somc/tmd2725_prox_miscta.json
 vendor/etc/sensors/sns_reg_config
 
 # Thermal configs
-vendor/etc/thermal-engine.conf
+vendor/etc/change.cfg
 
 # Touch backlight
 vendor/bin/hw/touchbacklightd

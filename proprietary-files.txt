@@ -666,10 +666,6 @@ vendor/lib/vendor.qti.hardware.cacert@1.0.so
 -system/priv-app/HotwordEnrollmentOKGoogleWCD9340/HotwordEnrollmentOKGoogleWCD9340.apk;PRESIGNED
 -system/priv-app/HotwordEnrollmentXGoogleWCD9340/HotwordEnrollmentXGoogleWCD9340.apk;PRESIGNED
 
-# Init
-vendor/etc/init/init.sony.usb.eng.rc
-vendor/etc/init/init.sony.usb.rc
-
 # Keymaster
 vendor/bin/hw/android.hardware.keymaster@3.0-service-qti
 vendor/etc/init/android.hardware.keymaster@3.0-service-qti.rc

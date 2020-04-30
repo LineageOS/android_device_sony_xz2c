@@ -14,7 +14,7 @@ fi
 set -e
 
 # Required!
-export DEVICE=apollo
+export DEVICE=xz2c
 export DEVICE_COMMON=tama-common
 export VENDOR=sony
 

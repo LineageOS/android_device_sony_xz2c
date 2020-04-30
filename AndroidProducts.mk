@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_apollo.mk
+    $(LOCAL_DIR)/lineage_xz2c.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_apollo-user \
-    lineage_apollo-userdebug \
-    lineage_apollo-eng
+    lineage_xz2c-user \
+    lineage_xz2c-userdebug \
+    lineage_xz2c-eng

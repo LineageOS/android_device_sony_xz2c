@@ -738,10 +738,6 @@ vendor/etc/sensors/sns_reg_config
 # Thermal configs
 vendor/etc/change.cfg
 
-# Touch backlight
-vendor/bin/hw/touchbacklightd
-vendor/etc/init/init.touchbacklightd.rc
-
 # Touch firmware
 vendor/firmware/touch_module_id_0x30.img
 vendor/firmware/touch_module_id_0x31.img

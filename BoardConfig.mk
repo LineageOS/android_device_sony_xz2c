@@ -9,9 +9,6 @@
 
 DEVICE_PATH := device/sony/xz2c
 
-# Crypto
-TARGET_HW_DISK_ENCRYPTION := true
-
 # Display
 TARGET_SCREEN_DENSITY := 480
 

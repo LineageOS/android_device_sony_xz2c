@@ -40,6 +40,31 @@ vendor/lib64/libbtnv.so
 vendor/lib/hw/android.hardware.bluetooth@1.0-impl-qti.so
 vendor/lib/libbtnv.so
 
+# Cacao
+bin/cacaoserver
+lib64/libcacao_client.so
+lib64/libcacao_pal.so
+lib64/libcacao_process_ctrl_gateway.so
+lib64/libcacao_service.so
+lib64/vendor.somc.hardware.camera.cacao@1.0.so
+lib64/vendor.somc.hardware.camera.cacao@2.0.so
+lib64/vendor.somc.hardware.camera.cacao@3.0.so
+lib64/vendor.somc.hardware.camera.cacao@3.1.so
+lib64/vendor.somc.hardware.camera.cacao@3.2.so
+lib64/vendor.somc.hardware.camera.device@1.0.so
+lib64/vendor.somc.hardware.camera.provider@1.0.so
+lib/libcacao_client.so
+lib/libcacao_pal.so
+lib/libcacao_process_ctrl_gateway.so
+lib/libcacao_service.so
+lib/vendor.somc.hardware.camera.cacao@1.0.so
+lib/vendor.somc.hardware.camera.cacao@2.0.so
+lib/vendor.somc.hardware.camera.cacao@3.0.so
+lib/vendor.somc.hardware.camera.cacao@3.1.so
+lib/vendor.somc.hardware.camera.cacao@3.2.so
+lib/vendor.somc.hardware.camera.device@1.0.so
+lib/vendor.somc.hardware.camera.provider@1.0.so
+
 # Camera
 vendor/bin/hw/vendor.somc.hardware.camera.provider@1.0-service
 vendor/camera/CHI05BN1/color_ctrl.dat

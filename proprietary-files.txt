@@ -1,4 +1,4 @@
-# Sony package version: 52.1.A.2.1
+# Sony package version: 52.1.A.3.49
 
 # ACDB
 vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb

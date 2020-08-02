@@ -744,5 +744,8 @@ vendor/etc/change.cfg
 vendor/firmware/touch_module_id_0x30.img
 vendor/firmware/touch_module_id_0x31.img
 
+# Touchscreen
+vendor/bin/touch_id.sh
+
 # WiFi
 vendor/etc/wifi/bdwlan.bin

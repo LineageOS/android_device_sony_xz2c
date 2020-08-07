@@ -731,6 +731,7 @@ vendor/etc/sensors/sns_reg_config
 
 # Thermal configs
 vendor/etc/change.cfg
+vendor/etc/simple_thermal_monitor.cfg
 
 # Touch firmware
 vendor/firmware/touch_module_id_0x30.img

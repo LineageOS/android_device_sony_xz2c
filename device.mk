@@ -25,9 +25,6 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += \
 PRODUCT_AAPT_CONFIG := normal
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
-# Treble
-PRODUCT_USE_VNDK_OVERRIDE := true
-
 # Inherit from tama-common
 $(call inherit-product, device/sony/tama-common/common.mk)
 

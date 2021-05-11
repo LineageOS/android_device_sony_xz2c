@@ -31,8 +31,5 @@ BOARD_USERDATAIMAGE_PARTITION_SIZE := 51448807424
 TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
-# Treble
-BOARD_VNDK_RUNTIME_DISABLE := true
-
 # Inherit from the proprietary version
 -include vendor/sony/xz2c/BoardConfigVendor.mk

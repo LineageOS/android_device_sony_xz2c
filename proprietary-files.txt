@@ -665,6 +665,15 @@ vendor/lib/libkeymasterdeviceutils.so
 vendor/lib/libkeymasterprovision.so
 vendor/lib/libkeymasterutils.so
 
+# Secd
+vendor/bin/hw/vendor.semc.hardware.secd@1.0-service
+vendor/lib/libdevice_security_vendor.so
+vendor/lib/libsuntory.so
+vendor/lib/vendor.somc.hardware.security.secd@1.0.so
+vendor/lib64/libdevice_security_vendor.so
+vendor/lib64/libsuntory.so
+vendor/lib64/vendor.somc.hardware.security.secd@1.0.so
+
 # Sensors
 vendor/lib64/sensors.ssc.so
 vendor/lib/sensors.ssc.so

@@ -23,4 +23,4 @@ Camera  | Dual 12 MP, 4-axis OIS, 2x optical zoom, dual PDAF, dual-LED (dual ton
 
 ## Device picture
 
-![Sony Xperia XZ2 Compact](https://www.cellphoneage.com/pub/media/catalog/product/cache/207e23213cf636ccdef205098cf3c8a3/x/p/xperia_xz2_compact_dual_1600x1600.jpg "Sony Xperia XZ2 Compact")
+![Sony Xperia XZ2 Compact](https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-xz2-compact-001.jpg "Sony Xperia XZ2 Compact")

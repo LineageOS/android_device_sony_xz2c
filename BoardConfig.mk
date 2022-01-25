@@ -9,9 +9,6 @@
 
 DEVICE_PATH := device/sony/xz2c
 
-# Assert
-TARGET_OTA_ASSERT_DEVICE := H8314,H8324,apollo,apollo_dual,xz2c,xz2c_dual
-
 # Crypto
 TARGET_HW_DISK_ENCRYPTION := true
 

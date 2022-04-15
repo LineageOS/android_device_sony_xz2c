@@ -1,3 +1,6 @@
+# Bluetooth
+bluetooth.device.default_name=Xperia XZ2 Compact
+
 # Display postprocessing
 vendor.display.enable_default_color_mode=1
 vendor.display.disable_hdr_lut_gen=1
